@@ -1,0 +1,14 @@
+{
+  "Name": "Spanish Musketoon",
+  "VersionNumber": "1.0.1",
+  "Description": "A smaller muzzle-loading flintlock firearm for all of you short-armed people.",
+  "ShortDescription": "Musket but like a shotgun",
+  "Authors": ["Muzzle", "Muzzle"],
+  "IconUrl": "https://gcdn.thunderstore.io/live/repository/icons/Muzzle-Spanish_Musketoon-1.0.1.png.128x128_q95.png",
+  "SourceUrl": "https://thunderstore.io/c/h3vr/p/Muzzle/Spanish_Musketoon/",
+  "DownloadUrl": "https://gcdn.thunderstore.io/live/repository/icons/Muzzle-Spanish_Musketoon-1.0.1.png.128x128_q95.png",
+  "InstallationSteps": ["extract $GAME_DIR"],
+  "Dependencies": {
+    "Deli": "^0.2.5"
+  }
+}
